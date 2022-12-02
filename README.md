@@ -18,4 +18,11 @@
 ### Chat Interface
 ![Screenshot (870).png](https://github.com/blake-reynolds1/Chat-Application/blob/main/Screenshot%20(870).png)
 
+## References
+
+* `PHP Manual:` https://www.php.net/manual/en/index.php
+* `HTML Manual:` https://www.javatpoint.com/html5-user-manual
+* `JS Manual:` https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+* `XAMPP Download:` https://www.apachefriends.org/
+
 
